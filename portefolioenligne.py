@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config( page_title="Portfolio – CHEIKH NIANG", )
 with st.sidebar:
     st.title("NAVIGATION")
-    st.image("image.jpg",width=150)
+    st.image("IMG-20240617-WA0095.jpg",width=150)
     st.subheader("Cheikh NIANG")
     st.write("📞 Téléphone:76 140 27 01")
     st.write("📧  Email:ngcheikh002@gmail.com")
